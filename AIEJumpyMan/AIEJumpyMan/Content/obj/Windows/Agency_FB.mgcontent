@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Agency_FB.spritefont</SourceFile>
+  <SourceTime>2017-03-08T13:05:30.2449507+11:00</SourceTime>
+  <DestFile>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/bin/Windows/Agency_FB.xnb</DestFile>
+  <DestTime>2017-06-26T13:42:25.7967736+10:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T17:36:08+11:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T17:36:08+11:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

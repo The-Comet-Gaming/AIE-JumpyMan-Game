@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Agency_FB.spritefont</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Bronze-Loot-Pile.png</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/chest.png</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Fantasy Tileset.png</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Gold-Loot-Pile.png</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Healthpack.png</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Heart.png</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/hero.png</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Jump(edited).wav</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Level1.tmx</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Level1-background.tmx</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Level2.tmx</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Level2-background.tmx</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Level3.tmx</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Level3-background.tmx</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/MegaHealthHeart.png</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Silver-Loot-Pile.png</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/SuperHero_original(edited).ogg</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/Tileset.png</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/TutorialLevel.tmx</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/walk.png</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/zombie.png</File>
+    <File>C:/Users/The Comet/Documents/GitHub/AIE-JumpyMan-Game/AIEJumpyMan/AIEJumpyMan/Content/ZombieDeath.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
